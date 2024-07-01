@@ -1,4 +1,5 @@
 ## HNL 
+- In 2023: Komninos-John Plows and Xianguo Lu<br> [Modeling heavy neutral leptons in accelerator beamlines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.055003)
 - In 2021: André de Gouvêa, Patrick J. Fox, Boris J. Kayser, and Kevin J. Kelly<br> [Three-body decays of heavy Dirac and Majorana fermions](https://journals.aps.org/prd/cited-by/10.1103/PhysRevD.104.015038/?target=_blank)
 
 
