@@ -4,4 +4,6 @@
 
 
 ## Large Dirac or Majorana Neutrino Magnetic Moments
+- In 2022: Alexander Studenikin<br> [Overview of neutrino electromagnetic properties](https://pos.sissa.it/406/057)
 - In 2020: K. S. Babu, Sudip Jana & Manfred Lindner<br> <a href="https://link.springer.com/article/10.1007/JHEP10(2020)040" target="_blank"> Large neutrino magnetic moments in the light of recent experiments</a>
+
