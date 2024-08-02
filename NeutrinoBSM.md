@@ -10,3 +10,6 @@
 - In 2021: O. G. Miranda, D. K. Papoulias, O. Sanders, M. Tórtola & J. W. F. Valle <br> [Low-energy probes of sterile neutrino transition magnetic moments](https://link.springer.com/article/10.1007/JHEP12(2021)191)
 - In 2020: K. S. Babu, Sudip Jana & Manfred Lindner<br> <a href="https://link.springer.com/article/10.1007/JHEP10(2020)040" target="_blank"> Large neutrino magnetic moments in the light of recent experiments</a>
 
+## Sub-GeV DDM
+
+- In 2021: Elias Bernreuther, Saniya Heeba, Felix Kahlhoefer <br>  [Resonant Sub-GeV Dirac Dark Matter](https://arxiv.org/abs/2010.14522)
