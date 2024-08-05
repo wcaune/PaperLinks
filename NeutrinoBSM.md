@@ -2,8 +2,9 @@
 - In 2024: Pilar Coloma, Jacobo López-Pavón, Laura Molina-Bueno and Salvador Urrea <br> [New physics searches using ProtoDUNE and the CERN SPS accelerator](https://digital.csic.es/bitstream/10261/364520/1/Coloma_New.pdf)
 - In 2023: Komninos-John Plows and Xianguo Lu<br> [Modeling heavy neutral leptons in accelerator beamlines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.055003)
 - In 2021: André de Gouvêa, Patrick J. Fox, Boris J. Kayser, and Kevin J. Kelly<br> [Three-body decays of heavy Dirac and Majorana fermions](https://journals.aps.org/prd/cited-by/10.1103/PhysRevD.104.015038/?target=_blank)
+- In 2018: Marco Drewes, Jan Hajer, Juraj Klaric & Gaia Lanfranchi <br> [NA62 sensitivity to heavy neutral leptons in the low scale seesaw model](https://link.springer.com/article/10.1007/JHEP07(2018)105)
 
-
+  
 ## Large Dirac or Majorana Neutrino Magnetic Moments
 - In 2024: Diana C. Rivera-Agudeloa, S. L. Tostadoa, Nelson E. Valderrama-Florezb <br> [Approximate magic symmetry in a cobimaximal scenario of Majorana neutrinos](https://arxiv.org/pdf/2407.14888)
 - In 2022: Alexander Studenikin<br> [Overview of neutrino electromagnetic properties](https://pos.sissa.it/406/057)
