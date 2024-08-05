@@ -10,6 +10,7 @@
 - In 2022: Alexander Studenikin<br> [Overview of neutrino electromagnetic properties](https://pos.sissa.it/406/057)
 - In 2021: O. G. Miranda, D. K. Papoulias, O. Sanders, M. Tórtola & J. W. F. Valle <br> [Low-energy probes of sterile neutrino transition magnetic moments](https://link.springer.com/article/10.1007/JHEP12(2021)191)
 - In 2020: K. S. Babu, Sudip Jana & Manfred Lindner<br> <a href="https://link.springer.com/article/10.1007/JHEP10(2020)040" target="_blank"> Large neutrino magnetic moments in the light of recent experiments</a>
+- In 2018: Xin Qian and Jen-Chieh Peng <br> [Physics with reactor neutrinos](https://iopscience.iop.org/article/10.1088/1361-6633/aae881)
 
 ## Sub-GeV DDM
 
