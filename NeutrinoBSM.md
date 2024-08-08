@@ -15,3 +15,4 @@
 ## Sub-GeV DDM
 
 - In 2021: Elias Bernreuther, Saniya Heeba, Felix Kahlhoefer <br>  [Resonant Sub-GeV Dirac Dark Matter](https://arxiv.org/abs/2010.14522)
+- In 2018: Amine Ahriche, Adil Jueid, and Salah Nasri <br> [Radiative neutrino mass and Majorana dark matter within an inert Higgs doublet model](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.095012)
