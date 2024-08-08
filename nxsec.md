@@ -4,3 +4,7 @@
 ## DIS
 - In 2022: GENIE <br>  [Hadronization model tuning in genie v3](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.012009)
 - In 2009: T. Yang, C. Andreopoulos, H. Gallagher, K. Hofmann & P. Kehayias <br> [A hadronization model for few-GeV neutrino interactions](https://link.springer.com/article/10.1140/epjc/s10052-009-1094-z)
+
+
+## Tuning 
+- In 2016: Felipe Isaule, H. F. Arellano, and Arnau Rios <br> [Di-neutrons in neutron matter within a Brueckner-Hartree-Fock approach](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.94.034004)
