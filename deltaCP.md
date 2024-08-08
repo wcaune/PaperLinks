@@ -1,4 +1,5 @@
 ## CP Violation
+- In 2024: Caroline Laber-Smith, Eve Armstrong, A. Baha Balantekin, Elizabeth K. Jones, Lily Newkirk, Amol V. Patwardhan, Sarah Ranginwala, M. Margarette Sanchez, and Hansen Torres <br> [Constraining solar electron number density via neutrino flavor data at Borexino](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.043011)
 - In 2024: Peter B. Denton <br> [Probing 𝐶⁢𝑃 Violation with Neutrino Disappearance Alone](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.031801)
 - In 2024: Lawrence J. Hall, Keisuke Harigaya & Yogev Shpilman <br>[Radiative Majorana neutrino masses in a parity solution to the strong CP problem](https://link.springer.com/article/10.1007/JHEP03(2024)047)
 - In 2023: Francesca Di Lodovico, Ryan B. Patterson, Masato Shiozawa, and Elizabeth Worcester <br> [Experimental Considerations in Long-Baseline Neutrino Oscillation Measurements](https://www.annualreviews.org/content/journals/10.1146/annurev-nucl-102020-101615)
