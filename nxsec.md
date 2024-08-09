@@ -10,7 +10,7 @@
 - In 2021: W. Cosyn, J. Ryckebusch <br> [Phase-space distributions of nuclear short-range correlations](https://arxiv.org/pdf/2106.01249)
 - In 2020: Saori Pastore, Joseph Carlson, Stefano Gandolfi, Rocco Schiavilla, Robert B. Wiringa <br> [Quasielastic lepton scattering and back-to-back nucleons in the short-time approximation](https://arxiv.org/abs/1909.06400)
 - In 2016: Felipe Isaule, H. F. Arellano, and Arnau Rios <br> [Di-neutrons in neutron matter within a Brueckner-Hartree-Fock approach](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.94.034004)
-
+- In 2014: V. Pandey, N. Jachowicz, J. Ryckebusch, T. Van Cuyck, W. Cosyn <br>[Quasielastic contribution to antineutrino-nucleus scattering](https://arxiv.org/abs/1310.6885)
 
 ## Eletron Neutrino:  NuMI  Nue-Nucleus 
 - In 2023: NOvA Collaboration <br> [Measurement of the $`\nu_e`$-Nucleus Charged-Current Double-Differential Cross Section at <$`E_\nu`$> = 2.4 GeV Using NOvA](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.130.051802)
