@@ -1,6 +1,7 @@
 ## Single Pion
 - In 2020: Monireh Kabirnezhad  <br> [Single pion production in electron-nucleon interactions](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.102.053009)
 - In 2018: M. Kabirnezhad <br> [Single pion production in neutrino-nucleon interactions](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.97.013002)
+- In 2012: Xilin Zhang and Brian D. Serot <br> [Coherent neutrino production of photons and pions in a chiral effective field theory for nuclei](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.86.035504)
 
 ## DIS
 - In 2022: GENIE <br>  [Hadronization model tuning in genie v3](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.012009)
