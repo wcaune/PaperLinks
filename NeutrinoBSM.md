@@ -4,6 +4,7 @@
 - In 2021: André de Gouvêa, Patrick J. Fox, Boris J. Kayser, and Kevin J. Kelly<br> [Three-body decays of heavy Dirac and Majorana fermions](https://journals.aps.org/prd/cited-by/10.1103/PhysRevD.104.015038/?target=_blank)
 - In 2018: Marco Drewes, Jan Hajer, Juraj Klaric & Gaia Lanfranchi <br> [NA62 sensitivity to heavy neutral leptons in the low scale seesaw model](https://link.springer.com/article/10.1007/JHEP07(2018)105)
 - In 2018: Enrico Bertuzzo, Sudip Jana, Pedro A. N. Machado, and Renata Zukanovich Funchal <br />[Dark Neutrino Portal to Explain MiniBooNE Excess](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.241801)
+- In 2018: André de Gouvêa, Patrick J. Fox, Roni Harnik, Kevin J. Kelly, Yue Zhang <br /> [Dark Tridents at Off-Axis Liquid Argon Neutrino Detectors](https://arxiv.org/abs/1809.06388)
   
 ## Large Dirac or Majorana Neutrino Magnetic Moments
 - In 2024: Diana C. Rivera-Agudeloa, S. L. Tostadoa, Nelson E. Valderrama-Florezb <br> [Approximate magic symmetry in a cobimaximal scenario of Majorana neutrinos](https://arxiv.org/pdf/2407.14888)
