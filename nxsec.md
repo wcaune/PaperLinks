@@ -12,6 +12,9 @@
 - In 2009: T. Yang, C. Andreopoulos, H. Gallagher, K. Hofmann & P. Kehayias <br> [A hadronization model for few-GeV neutrino interactions](https://link.springer.com/article/10.1140/epjc/s10052-009-1094-z)
 - In 1987: The European Muon Collaboration <br> [Measurements of the nucleon structure functions F2N in deep inelastic muon scattering from deuterium and comparison with those from hydrogen and iron](https://www.sciencedirect.com/science/article/abs/pii/0550321387900903?via=ihub)
 
+## MEC
+- In 2025: Hemant Prasad, Jan T. Sobczyk, Artur M. Ankowski, J. Luis Bonilla, Rwik Dharmapal Banerjee, Krzysztof M. Graczyk, Beata E. Kowal <br />[Developments in NuWro Monte Carlo generator](https://arxiv.org/abs/2501.11470)
+
 ## Neutrino Cross-Section Tuning 
 - In 2024: MicroBooNE <br> [Inclusive cross section measurements in final states with and without protons for charged-current numu-Ar scattering in MicroBooNE](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.013006)
 - In 2024: Steven Gardiner <br> [Mathematical methods for neutrino cross-section extraction](https://arxiv.org/abs/2401.04065)
