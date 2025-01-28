@@ -15,6 +15,9 @@
 ## MEC
 - In 2025: Hemant Prasad, Jan T. Sobczyk, Artur M. Ankowski, J. Luis Bonilla, Rwik Dharmapal Banerjee, Krzysztof M. Graczyk, Beata E. Kowal <br />[Developments in NuWro Monte Carlo generator](https://arxiv.org/abs/2501.11470)
 
+## QE
+- In 2012:  Melanie Day and Kevin S. McFarland<br /> [Differences in quasielastic cross sections of muon and electron neutrinos](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.053003)
+
 ## Neutrino Cross-Section Tuning 
 - In 2024: MicroBooNE <br> [Inclusive cross section measurements in final states with and without protons for charged-current numu-Ar scattering in MicroBooNE](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.013006)
 - In 2024: Steven Gardiner <br> [Mathematical methods for neutrino cross-section extraction](https://arxiv.org/abs/2401.04065)
