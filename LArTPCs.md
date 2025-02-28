@@ -8,8 +8,8 @@
 
 - In 2016:  Vitaly A. Kudryavtsev <br> [Underground physics with DUNE](https://iopscience.iop.org/article/10.1088/1742-6596/718/6/062032/pdf)
 
-## ProtoDUNE 
-- In 2025:
+## ProtoDUNE: SP, VD and HD.
+- In 2025:  Douglas Bryman and Robert Shrock <br>  [Pion Decay](https://arxiv.org/pdf/2502.18384)
 
 ## Neutron
 - In 2024: MicroBooNE <br> [Demonstration of neutron identification in neutrino interactions in the MicroBooNE liquid argon time projection chamber](https://arxiv.org/abs/2406.10583)
