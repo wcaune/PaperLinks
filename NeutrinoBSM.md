@@ -1,4 +1,5 @@
 ## HNL 
+- In 2024: Gustavo F. S. Alves, P. S. Bhupal Dev, Kevin J. Kelly, and Pedro A. N. Machado <br> [Mass Reconstruction of Heavy Neutral Leptons from Stopped Mesons](https://arxiv.org/pdf/2409.04394)
 - In 2024: Pilar Coloma, Jacobo López-Pavón, Laura Molina-Bueno and Salvador Urrea <br> [New physics searches using ProtoDUNE and the CERN SPS accelerator](https://digital.csic.es/bitstream/10261/364520/1/Coloma_New.pdf)
 - In 2023: Komninos-John Plows and Xianguo Lu<br> [Modeling heavy neutral leptons in accelerator beamlines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.055003)
 - In 2021: André de Gouvêa, Patrick J. Fox, Boris J. Kayser, and Kevin J. Kelly<br> [Three-body decays of heavy Dirac and Majorana fermions](https://journals.aps.org/prd/cited-by/10.1103/PhysRevD.104.015038/?target=_blank)
