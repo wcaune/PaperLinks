@@ -6,6 +6,7 @@
 - In 2018: Marco Drewes, Jan Hajer, Juraj Klaric & Gaia Lanfranchi <br> [NA62 sensitivity to heavy neutral leptons in the low scale seesaw model](https://link.springer.com/article/10.1007/JHEP07(2018)105)
 - In 2018: Enrico Bertuzzo, Sudip Jana, Pedro A. N. Machado, and Renata Zukanovich Funchal <br />[Dark Neutrino Portal to Explain MiniBooNE Excess](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.241801)
 - In 2018: André de Gouvêa, Patrick J. Fox, Roni Harnik, Kevin J. Kelly, Yue Zhang <br /> [Dark Tridents at Off-Axis Liquid Argon Neutrino Detectors](https://arxiv.org/abs/1809.06388)
+- In 2013: Takehiko Asaka, Shintaro Eijima, Atsushi Watanabe† <br /> [Heavy neutrino search in accelerator-based experiments](https://arxiv.org/pdf/1212.1062)
   
 ## Large Dirac or Majorana Neutrino Magnetic Moments
 - In 2024: Diana C. Rivera-Agudeloa, S. L. Tostadoa, Nelson E. Valderrama-Florezb <br> [Approximate magic symmetry in a cobimaximal scenario of Majorana neutrinos](https://arxiv.org/pdf/2407.14888)
