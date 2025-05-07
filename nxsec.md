@@ -14,6 +14,7 @@
 
 ## MEC
 - In 2025: Hemant Prasad, Jan T. Sobczyk, Artur M. Ankowski, J. Luis Bonilla, Rwik Dharmapal Banerjee, Krzysztof M. Graczyk, Beata E. Kowal <br />[Developments in NuWro Monte Carlo generator](https://arxiv.org/abs/2501.11470)
+- In 2014: R. Gonzaléz-Jiménez, G.D. Megias, M.B. Barbaro, J.A. Caballero, T.W. Donnelly <br> [Extensions of Superscaling from Relativistic Mean Field Theory: the SuSAv2 Model](https://arxiv.org/abs/1407.8346)
 
 ## QE
 - In 2012:  Melanie Day and Kevin S. McFarland<br /> [Differences in quasielastic cross sections of muon and electron neutrinos](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.053003)
