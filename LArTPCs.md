@@ -4,6 +4,8 @@
 
 
 ## Proton Decay
+- In 2025: MicroBooNE <br> [First Measurement of Charged Current Muon Neutrino-Induced K+ Production on
+Argon using the MicroBooNE Detector](https://arxiv.org/pdf/2503.00291)
 - In 2021: Christoph Alt, Balint Radics, André Rubbia <br> [Neural-network-driven proton decay sensitivity in the p→ν¯K+ channel using large liquid argon time projection chambers](https://arxiv.org/abs/2010.06552)
 
 - In 2016:  Vitaly A. Kudryavtsev <br> [Underground physics with DUNE](https://iopscience.iop.org/article/10.1088/1742-6596/718/6/062032/pdf)
