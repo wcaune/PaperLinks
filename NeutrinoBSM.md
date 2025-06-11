@@ -20,6 +20,7 @@
 
 ## Sub-GeV Dirac or Majorana DM
 
+- In 2025:Tien-Tien Yu <br> [2024 TASI Lectures: A Dark Matter Primer](https://arxiv.org/pdf/2506.05234)
 - In 2025: SuperCDMS <br> [Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.012006)
 
 - In 2021: Elias Bernreuther, Saniya Heeba, Felix Kahlhoefer <br>  [Resonant Sub-GeV Dirac Dark Matter](https://arxiv.org/abs/2010.14522)
