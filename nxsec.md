@@ -1,5 +1,6 @@
 ## Proton K.E.
-- In 2024: MicroBooNE <br />[First Simultaneous Measurement of Differential Muon-Neutrino Charged-Current Cross Sections on Argon for Final States with and without Protons Using MicroBooNE Data](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.041801)
+- In 2024: MicroBooNE <br />[First Simultaneous Measurement of Differential Muon-Neutrino Charged-Current Cross Sections on Argon for Final States with and without Protons Using MicroBooNE Data](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.041801) 
+- In 2024: MicroBooNE <br />[Final-state interactions in neutrino-induced proton knockout from argon in MicroBooNE](https://arxiv.org/pdf/2406.09244)
 - In 2021: Steven Dytman, Yoshinari Hayato, Roland Raboanary, Jan Sobczyk, Julia Tena-Vidal, Narisoa Vololoniaina <br />[Comparison of Validation Methods of Simulations for Final State Interactions in Hadron Production Experiments](https://arxiv.org/abs/2103.07535)
 - In 1992: G. Garino, M. Saber, and R. E. Segel with others.<br > [Proton propagation in nuclei studied in the (e,e’p) reaction](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.45.780)
 ## Single Pion or single photon
