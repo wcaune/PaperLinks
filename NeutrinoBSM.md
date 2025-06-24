@@ -20,6 +20,7 @@
 
 ## Sub-GeV Dirac or Majorana DM
 
+- In 2025: Koun Choi,  Doojin Kim, et al. <br> [New Physics Opportunities at Neutrino Facilities: BSM Physics at Accelerator, Atmospheric, and Reactor Neutrino Experiments](https://arxiv.org/pdf/2506.15306)
 - In 2025:Tien-Tien Yu <br> [2024 TASI Lectures: A Dark Matter Primer](https://arxiv.org/pdf/2506.05234)
 - In 2025: SuperCDMS <br> [Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.012006)
 
