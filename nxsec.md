@@ -13,6 +13,7 @@
 ## DIS
 - In 2022: GENIE <br>  [Hadronization model tuning in genie v3](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.012009)
 - In 2009: T. Yang, C. Andreopoulos, H. Gallagher, K. Hofmann & P. Kehayias <br> [A hadronization model for few-GeV neutrino interactions](https://link.springer.com/article/10.1140/epjc/s10052-009-1094-z)
+- In 2006: Hugh Gallagher  <br> [Event Generator Tuning in the Resonance Region for the MINOS Experiment](https://doi.org/10.1016/j.nuclphysbps.2006.08.041)
 - In 1987: The European Muon Collaboration <br> [Measurements of the nucleon structure functions F2N in deep inelastic muon scattering from deuterium and comparison with those from hydrogen and iron](https://www.sciencedirect.com/science/article/abs/pii/0550321387900903?via=ihub)
 
 ## MEC
