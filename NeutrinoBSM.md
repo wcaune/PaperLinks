@@ -18,7 +18,7 @@
 - In 2014: Steve J. Brice, R. L. Cooper,*, F. DeJongh, A. Empl, L. M. Garrison, A. Hime, E. Hungerford, T. Kobilarcik, and B. Loer et al. <br />[A method for measuring coherent elastic neutrino-nucleus scattering at a far off-axis high-energy neutrino beam target](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.89.072004)
 - In 1978: Jihn E. Kim  <br>[Effects of the Transition Magnetic Moment of the Neutrino](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.41.360)
 
-## Sub-GeV Dirac or Majorana DM
+## Sub-GeV  DM
 
 - In 2025: Koun Choi,  Doojin Kim, et al. <br> [New Physics Opportunities at Neutrino Facilities: BSM Physics at Accelerator, Atmospheric, and Reactor Neutrino Experiments](https://arxiv.org/pdf/2506.15306)
 - In 2025:Tien-Tien Yu <br> [2024 TASI Lectures: A Dark Matter Primer](https://arxiv.org/pdf/2506.05234)
@@ -26,3 +26,4 @@
 
 - In 2021: Elias Bernreuther, Saniya Heeba, Felix Kahlhoefer <br>  [Resonant Sub-GeV Dirac Dark Matter](https://arxiv.org/abs/2010.14522)
 - In 2018: Amine Ahriche, Adil Jueid, and Salah Nasri <br> [Radiative neutrino mass and Majorana dark matter within an inert Higgs doublet model](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.095012)
+- In 2017: Patrick deNiverville, Chien-Yi Chen, Maxim Pospelov, Adam Ritz <br> [Light dark matter in neutrino beams: production modelling and scattering signatures at MiniBooNE, T2K and SHiP](https://arxiv.org/abs/1609.01770)
