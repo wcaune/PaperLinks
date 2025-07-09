@@ -11,6 +11,8 @@
 - In 2012: Xilin Zhang and Brian D. Serot <br> [Coherent neutrino production of photons and pions in a chiral effective field theory for nuclei](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.86.035504)
 
 ## DIS
+- In 2025: MINERvA <br> [Measurement of charged-current numu and anumu cross sections on hydrocarbon in a shallow
+inelastic scattering region](https://arxiv.org/pdf/2503.20043)
 - In 2022: GENIE <br>  [Hadronization model tuning in genie v3](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.012009)
 - In 2009: T. Yang, C. Andreopoulos, H. Gallagher, K. Hofmann & P. Kehayias <br> [A hadronization model for few-GeV neutrino interactions](https://link.springer.com/article/10.1140/epjc/s10052-009-1094-z)
 - In 2006: Hugh Gallagher  <br> [Event Generator Tuning in the Resonance Region for the MINOS Experiment](https://doi.org/10.1016/j.nuclphysbps.2006.08.041)
