@@ -18,8 +18,10 @@
 - In 2014: Steve J. Brice, R. L. Cooper,*, F. DeJongh, A. Empl, L. M. Garrison, A. Hime, E. Hungerford, T. Kobilarcik, and B. Loer et al. <br />[A method for measuring coherent elastic neutrino-nucleus scattering at a far off-axis high-energy neutrino beam target](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.89.072004)
 - In 1978: Jihn E. Kim  <br>[Effects of the Transition Magnetic Moment of the Neutrino](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.41.360)
 
-## Sub-GeV  DM
+## Sub-GeV scale Dark Matter or Dark Photon
 
+- In 2025: D. Alonso-González, D. Cerdeño, P. Foldenauer, J. M. No <br> [GeV-scale thermal dark matter from dark photons:
+tightly constrained, yet allowed](https://arxiv.org/pdf/2507.11376)
 - In 2025: Koun Choi,  Doojin Kim, et al. <br> [New Physics Opportunities at Neutrino Facilities: BSM Physics at Accelerator, Atmospheric, and Reactor Neutrino Experiments](https://arxiv.org/pdf/2506.15306)
 - In 2025:Tien-Tien Yu <br> [2024 TASI Lectures: A Dark Matter Primer](https://arxiv.org/pdf/2506.05234)
 - In 2025: SuperCDMS <br> [Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.012006)
