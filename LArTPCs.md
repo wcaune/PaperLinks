@@ -15,6 +15,8 @@ Argon using the MicroBooNE Detector](https://arxiv.org/pdf/2503.00291)
 - In 2024: Yinrui Liu <br> [A Modified Slicing Method with Multi-Dimensional Unfolding to Measure Hadron-Argon Cross Sections](https://www.mdpi.com/2410-390X/8/1/15)
 - In 2019: A. C. Booth, N. Charitonidis, P. Chatzidaki, Y. Karyotakis, E. Nowak, I. Ortega-Ruiz, M. Rosenthal, and P. Sala <br> [Particle production, transport, and identification in the regime of 1−7 GeV/c](https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.061003)
 ## Neutron
+- In 2025: K. J. Kelly, P. A. Copp, J. Surbrook, E. A. Bennett, M. Devlin, J. M. O'Donnell1, N. Mendez, M. Paris and H. Sasaki
+<br> [Measurement of the Si-28 (n, n'gamma) cross section with n, gamma and correlated n-gamma angular distributions](https://journals.aps.org/prc/abstract/10.1103/q8rv-2m1v)
 - In 2024: MicroBooNE <br> [Demonstration of neutron identification in neutrino interactions in the MicroBooNE liquid argon time projection chamber](https://arxiv.org/abs/2406.10583)
 
 ## BSM in ProtoDUNE
