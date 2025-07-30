@@ -4,6 +4,7 @@
 - In 2023: Soichiro Kuribayashi <br> [Measurement of Neutrino Oscillation Parameters
 with Study of Neutrino Interaction Eﬀects](https://www-he.scphys.kyoto-u.ac.jp/theses/doctor/kuribayashi_dt.pdf)
 - In 2022: GENIE <br>[Neutrino-nucleus CC0π cross-section tuning in GENIE v3](https://arxiv.org/pdf/2206.11050)
+- In 2021: Arie Bodek <br> [Pauli Blocking for a Relativistic Fermi Gas in Quasielastic Lepton Nucleus Scattering](https://arxiv.org/abs/2111.03631)
 - In 2021: Steven Dytman, Yoshinari Hayato, Roland Raboanary, Jan Sobczyk, Julia Tena-Vidal, Narisoa Vololoniaina <br />[Comparison of Validation Methods of Simulations for Final State Interactions in Hadron Production Experiments](https://arxiv.org/abs/2103.07535)
 - In 2019: Arie Bodek, Tejin Cai <br> [Removal Energies and Final State Interaction in Lepton Nucleus Scattering](https://arxiv.org/abs/1801.07975)
 - In 1992: G. Garino, M. Saber, and R. E. Segel with others.<br > [Proton propagation in nuclei studied in the (e,e’p) reaction](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.45.780)
