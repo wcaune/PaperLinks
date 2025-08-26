@@ -1,4 +1,5 @@
 ## HNL 
+* In 2025: P. S. Bhupal Dev, Quan-feng Wu, Xun-Jie Xu <br> [No Hiding in the Dark: Cosmological Bounds on Heavy Neutral Leptons with Dark Decay Channels](https://arxiv.org/abs/2507.12270)
 - In 2024: Gustavo F. S. Alves, P. S. Bhupal Dev, Kevin J. Kelly, and Pedro A. N. Machado <br> [Mass Reconstruction of Heavy Neutral Leptons from Stopped Mesons](https://arxiv.org/pdf/2409.04394)
 - In 2024: Pilar Coloma, Jacobo López-Pavón, Laura Molina-Bueno and Salvador Urrea <br> [New physics searches using ProtoDUNE and the CERN SPS accelerator](https://digital.csic.es/bitstream/10261/364520/1/Coloma_New.pdf)
 - In 2023: Komninos-John Plows and Xianguo Lu<br> [Modeling heavy neutral leptons in accelerator beamlines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.055003)
