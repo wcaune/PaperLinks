@@ -1,4 +1,5 @@
 ## Proton K.E. tuning in FS 
+- In 2025: CLAS <br /> [Proton Transparency and Neutrino Physics: New Methods and Modeling](https://arxiv.org/pdf/2508.01905)
 - In 2024: MicroBooNE <br />[First Simultaneous Measurement of Differential Muon-Neutrino Charged-Current Cross Sections on Argon for Final States with and without Protons Using MicroBooNE Data](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.041801) 
 - In 2024: MicroBooNE <br />[Final-state interactions in neutrino-induced proton knockout from argon in MicroBooNE](https://arxiv.org/pdf/2406.09244)
 - In 2023: Soichiro Kuribayashi <br> [Measurement of Neutrino Oscillation Parameters
