@@ -1,3 +1,7 @@
+## Nu-e Elastic Scattering 
+- In 2025: Jihong Huang, Shun Zhou <br> [Elastic Neutrino-electron Scattering at the One-loop Level
+in the Standard Model](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.033005)
+
 ## HNL 
 * In 2025: P. S. Bhupal Dev, Quan-feng Wu, Xun-Jie Xu <br> [No Hiding in the Dark: Cosmological Bounds on Heavy Neutral Leptons with Dark Decay Channels](https://arxiv.org/abs/2507.12270)
 - In 2024: Gustavo F. S. Alves, P. S. Bhupal Dev, Kevin J. Kelly, and Pedro A. N. Machado <br> [Mass Reconstruction of Heavy Neutral Leptons from Stopped Mesons](https://arxiv.org/pdf/2409.04394)
