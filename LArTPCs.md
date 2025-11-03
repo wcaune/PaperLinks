@@ -1,5 +1,6 @@
 ## LArTPCs
-
+- In 2024: R. Álvarez-Garrote and others <br> [Measurement of the absolute efficiency of the X-ARAPUCA
+photon detector for the DUNE Far Detector 1](https://link.springer.com/article/10.1140/epjc/s10052-024-13393-2)
 - In 2019: Mônica Soares Nunes <br> [Impact of Electron Lifetime on Electromagnetic Shower Separation](https://inspirehep.net/literature/1832064)
 
 
