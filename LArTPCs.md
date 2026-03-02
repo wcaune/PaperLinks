@@ -12,6 +12,7 @@ Argon using the MicroBooNE Detector](https://arxiv.org/pdf/2503.00291)
 - In 2016:  Vitaly A. Kudryavtsev <br> [Underground physics with DUNE](https://iopscience.iop.org/article/10.1088/1742-6596/718/6/062032/pdf)
 
 ## ProtoDUNE: SP, VD and HD.
+- In 2026:  Ginevra de Lauretis <br>   [Reconstruction of the neutrino energy in the DUNE liquid argon time projection chamber Far Detector](https://theses.hal.science/tel-05481092/document)
 - In 2025:  Douglas Bryman and Robert Shrock <br>  [Pion Decay](https://arxiv.org/pdf/2502.18384)
 - In 2024: Yinrui Liu <br> [A Modified Slicing Method with Multi-Dimensional Unfolding to Measure Hadron-Argon Cross Sections](https://www.mdpi.com/2410-390X/8/1/15)
 - In 2019: A. C. Booth, N. Charitonidis, P. Chatzidaki, Y. Karyotakis, E. Nowak, I. Ortega-Ruiz, M. Rosenthal, and P. Sala <br> [Particle production, transport, and identification in the regime of 1−7 GeV/c](https://journals.aps.org/prab/pdf/10.1103/PhysRevAccelBeams.22.061003)
